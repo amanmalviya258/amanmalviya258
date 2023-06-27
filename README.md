@@ -15,7 +15,7 @@ const Aman = {
     pronouns: "he" | "him",
     code: [Javascript, Typescript, Java, CSS, HTML],
     tools: [React, Redux, Node, Jest, Docker],
-    frameworks:[ExpressJS,NodeJS,React.JS],
+    frameworks:[ExpressJS,NodeJS,ReactJS],
     database:[MongoDB,MySQL],
     
    challenge: "I am building proficiency in node.js"
