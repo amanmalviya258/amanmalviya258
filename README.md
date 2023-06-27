@@ -14,11 +14,11 @@
 const Aman = {
     pronouns: "he" | "him",
     code: [Javascript, Typescript, Java, CSS, HTML],
-    tools: [React, Redux, Node, Jest, Docker],
+    tools: [Postman, Jest, Docker],
     frameworks:[ExpressJS,NodeJS,ReactJS],
     database:[MongoDB,MySQL],
     
-   challenge: "I am building proficiency in node.js"
+   challenge: " I'm building proficiency in nodeJS "
   }
 ```
 
