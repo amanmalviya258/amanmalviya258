@@ -12,12 +12,14 @@
 
 ```javascript
 const Aman = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Java],
-  tools: [React, Redux, Node, Jest, Docker],
-
- challenge: "I am building proficiency in node.js"
-}
+    pronouns: "he" | "him",
+    code: [Javascript, Typescript, Java, CSS, HTML],
+    tools: [React, Redux, Node, Jest, Docker],
+    frameworks:[ExpressJS,NodeJS,React.JS],
+    database:[MongoDB,MySQL],
+    
+   challenge: "I am building proficiency in node.js"
+  }
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
