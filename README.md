@@ -1,5 +1,5 @@
 <h2> Hi, I'm Aman Malviya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="200">
 <p><em>Software Engineer Intern at <a href="https://www.linkedin.com/company/zappian-media/">Zappian</a>
 </em></p>
 
