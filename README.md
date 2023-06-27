@@ -5,7 +5,7 @@
 
 [![Twitter: Aman Malviya](https://img.shields.io/twitter/follow/Aman?style=social)](https://twitter.com/AmanMalviya258)
 [![Linkedin: Aman Malviya ](https://img.shields.io/badge/-amanmalviya-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanmalviya258/)](https://www.linkedin.com/in/amanmalviya258/)
-[![GitHub Aman Malviya](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/amanmalviya258)
+[![GitHub Aman Malviya](https://img.shields.io/github/followers/amanmmalviya258?label=follow&style=social)](https://github.com/amanmalviya258)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
