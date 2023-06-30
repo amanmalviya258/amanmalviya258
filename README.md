@@ -18,7 +18,7 @@ const Aman = {
     frameworks:[ExpressJS,NodeJS,ReactJS],
     database:[MongoDB,MySQL],
     
-   challenge: " I'm building proficiency in NodeJS "
+   challenge: " I'm building proficiency in NodeJS. "
   }
 ```
 
