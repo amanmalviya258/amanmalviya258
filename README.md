@@ -17,8 +17,6 @@ const Aman = {
     tools: [Postman, Jest, Docker],
     frameworks:[ExpressJS,NodeJS,ReactJS],
     database:[MongoDB,MySQL],
-    
-   challenge: " I'm building proficiency in NodeJS. "
   }
 ```
 
