@@ -1,4 +1,4 @@
-<h2> Hi, I'm Aniket Jha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Aman Malviya! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif" width="200">
 <p><em>Software Engineer
 </em></p>
